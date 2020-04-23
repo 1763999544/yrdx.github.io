@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 朱刘书的博客 | BY Blog
+title: 宜人独秀 Blog
+SEOTitle: 朱刘书的博客 | 宜人独秀 Blog
 header-img: img/post-bg-desk.jpg
 email: zhuls1029@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 朱刘书的博客, zhuls, 朱刘书, Java"
+keyword: "宜人独秀, 宜人独秀 Blog, 朱刘书的博客, zhuls, 朱刘书, Java"
 url: "http://yrdx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yrdx/yrdx.github.io.git" # you code repository
